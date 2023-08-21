@@ -7,7 +7,7 @@
 [Contributing](#contributing) |
 [License](#license)
 
-Docker Image packaging for Shopify themes.
+Docker Image packaging for Shopify themes. This image is used to build and deploy Shopify themes.
 
 ## Usage
 
